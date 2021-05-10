@@ -1,0 +1,44 @@
+
+.container{
+    max-width: 814px;
+    max-height: 814px;
+    margin: 5% auto;
+    border: 15px solid rgb(31, 8, 8);
+    border-radius: 35px;
+     display: table;
+}
+
+.box{
+    width: 90px;
+    height: 100px;
+    border: 1px solid black ;
+    display: inline-block;
+    margin: -2px;
+    font-size: 70px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.white:hover{
+    background-color: rgb(75, 128, 128);
+}
+
+.black:hover{
+background-color: rgb(75, 128, 128);
+}
+.last1{
+    border-top-left-radius: 20px;
+}
+.last2{
+    border-top-right-radius: 20px;
+}
+.last3{
+    border-bottom-left-radius: 20px;
+}
+.last4{
+    border-bottom-right-radius: 20px;
+}
+
+.black{
+    background-color: rgb(61, 16, 16);
+}
