@@ -1,4 +1,3 @@
-
 .container{
     max-width: 814px;
     max-height: 814px;
@@ -41,4 +40,31 @@ background-color: rgb(75, 128, 128);
 
 .black{
     background-color: rgb(61, 16, 16);
+}
+
+
+.abc{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(25, 41, 41);
+}
+
+.qwe{
+    float: left;
+    font-size: 18px;
+    color: rgb(25, 41, 41);
+    font-weight: bold;
+    margin: 40px 10px 25px 10px; 
+}
+
+.qwe2{
+    float: right;
+    font-size: 18px;
+    color: rgb(25, 41, 41);
+    font-weight: bold;
+    margin: 40px 10px 25px 10px;
 }
